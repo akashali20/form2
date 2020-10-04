@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    max-width: 100%;
+    background-size: cover;
+}
+.header-top{
+    justify-content: space-between;
+}
+.header-top-left img{
+    width: 175px;
+    margin-left: 13px;
+}
+.fa-map-marker{
+    font-size: 28px;
+    color:#15678F;
+    margin-top: 10px;
+}
+.fa-clock-o{
+    font-size: 25px;
+    color:#15678F;
+    margin-top: 13px;
+    
+}
+.menu{
+    background: #15678F;
+    padding: 10px 0;
+}
+.container{
+    justify-content: space-between;
+}
+.img img{
+    width: 60px;
+    color: #ffffff;
+    margin-right: 10px;
+
+}
+.hb{
+    color:#15678F;
+    letter-spacing: 2px;
+}
+.pd{
+    margin-left: 76px;
+}
+.input{
+    justify-content: space-around;
+}
+.input input{
+    width: 400px;
+    margin: 20px 0;
+    padding: 5px 0;
+}
+.currency{
+    margin-left: 288px;
+}
+.all-btn{
+    text-align: center;
+    margin-top: 25px;
+}
+.btn{
+    background: #09577e;
+    padding: 5px 20px;
+    color: #fff;
+    border-radius: 20px;
+}
